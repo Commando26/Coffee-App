@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "232045384917",
+    "project_id": "groupone-coffeeandcode",
+    "storage_bucket": "groupone-coffeeandcode.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232045384917:android:b919e60d2f86a4c94efe5c",
+        "android_client_info": {
+          "package_name": "com.example.coffee_and_code"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232045384917-ou8jkrobdmdr2fgtoq7p7324btsbp91m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.coffee_and_code",
+            "certificate_hash": "b3d613b6b0d30c64bd52173a938e9004ef0d19b0"
+          }
+        },
+        {
+          "client_id": "232045384917-sr6chh6uhenm03pbc87rbp4j9m92bcab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfabPLeOA_FIhHY7Ya8bIjRlra94JmfLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232045384917-sr6chh6uhenm03pbc87rbp4j9m92bcab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
